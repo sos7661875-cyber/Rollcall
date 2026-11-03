@@ -1,4 +1,4 @@
-領航早點名 — GitHub Pages 版
+領航點名 — GitHub Pages 版
 
 1. 建立新的 GitHub repository，例如 morning-rollcall。
 2. 解壓縮 ZIP，將 index.html、sw.js、manifest.webmanifest、icon.svg 上傳到儲存庫最外層。
