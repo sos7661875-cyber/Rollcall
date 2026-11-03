@@ -1,1 +1,1 @@
-{"name":"領航點名","short_name":"領航點名","start_url":"./","display":"standalone","background_color":"#edf1f6","theme_color":"#2059aa","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]}
+{"name": "點名系統", "short_name": "點名系統", "start_url": "./", "display": "standalone", "background_color": "#edf1f6", "theme_color": "#2059aa", "icons": [{"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any"}]}
